@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35455" started-at="2018-05-08T16:39:44Z" finished-at="2018-05-08T16:40:20Z">
+    <groups>
+      <group name="daysforecast">
+        <method signature="HomePageTest.daysforecast()[pri:1, instance:com.Myobservatory.qa.testcases.HomePageTest@370736d9]" name="daysforecast" class="com.Myobservatory.qa.testcases.HomePageTest"/>
+      </group> <!-- daysforecast -->
+    </groups>
+    <test name="Default test" duration-ms="35455" started-at="2018-05-08T16:39:44Z" finished-at="2018-05-08T16:40:20Z">
+      <class name="com.Myobservatory.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Myobservatory.qa.testcases.HomePageTest@370736d9]" name="setup" is-config="true" duration-ms="35266" started-at="2018-05-08T16:39:44Z" finished-at="2018-05-08T16:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="daysforecast()[pri:1, instance:com.Myobservatory.qa.testcases.HomePageTest@370736d9]" name="daysforecast" duration-ms="159" started-at="2018-05-08T16:40:19Z" finished-at="2018-05-08T16:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- daysforecast -->
+      </class> <!-- com.Myobservatory.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
